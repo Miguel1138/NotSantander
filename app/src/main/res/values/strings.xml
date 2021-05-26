@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NotSantander</string>
+    <string name="santander">Santander</string>
+    <string name="menu_settings">Configurações</string>
+</resources>
