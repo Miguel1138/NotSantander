@@ -1,12 +1,13 @@
 <resources>
     <string name="app_name">NotSantander</string>
-    <string name="santander">Santander</string>
+    <string name="santander" translatable="false">Santander</string>
     <string name="menu_notification">Notificações</string>
     <string name="available_balance">Saldo disponível</string>
-    <string name="balance_and_limit">Saldo + Limite:</string>
+    <string name="balance_limit">Saldo + Limite:</string>
     <string name="see_bank_statement">Ver Extrato</string>
     <string name="transfer">Transferir</string>
     <string name="pay">Pagar</string>
     <string name="recharge">Recarga</string>
     <string name="final_card_numbers">Cartão Final</string>
+    <string name="hello">Olá, %1$s</string>
 </resources>
