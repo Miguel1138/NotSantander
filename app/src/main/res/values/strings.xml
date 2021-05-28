@@ -8,6 +8,12 @@
     <string name="transfer">Transferir</string>
     <string name="pay">Pagar</string>
     <string name="recharge">Recarga</string>
-    <string name="final_card_numbers">Cartão Final</string>
+    <string name="final_card_numbers">%1$s</string>
     <string name="hello">Olá, %1$s</string>
+    <string name="available_balance_cash">R$ %1$s</string>
+    <string name="balance_limit_cash">R$ %1$s</string>
+    <string name="agency">Ag %1$s</string>
+    <string name="account">Cc %1$s</string>
+    <string name="final_card">Cartão Final</string>
+
 </resources>
